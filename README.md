@@ -93,4 +93,4 @@ in the net like [this](https://medium.com/co-learning-lounge/how-to-download-ins
 After installation, go to your terminal and **pip install pandas**. After which, go run **jupyter notebook** and enjoy!
 
 
-**All rights reserved.**
+**Comments and suggestions are always welcome! All rights reserved.**
