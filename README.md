@@ -22,6 +22,8 @@ and other researchers can likewise play around with the code for their own analy
 Since data can be retrieved seamlessly, it is also easier to make visualization out of them. Below are two examples of visualization I made using data
 I collected and processed in Jupyter Notebook. These visualizations require the use of other softwares like **QGIS** and **Adobe Illustrator**.
 
+![cases by provinces-01](https://user-images.githubusercontent.com/87161563/148441101-3daa6894-d32e-4ef0-9950-d35f6cb09105.png)
+
 # Definition of terms
 
 The following are MOSTLY from [definitions](https://docs.google.com/spreadsheets/d/1rD77PMdxN6JMVeYmk7mvgDNtEHJt8Du6ozaLm_Qok0Q/edit#gid=1714687638) from the 
