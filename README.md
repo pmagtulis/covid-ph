@@ -19,7 +19,7 @@ The code is meant to easily navigate through case files and draw analysis from t
 **how much testing is being conducted, which age group is most infected** and others can be easily determined through the database. Similarly, programmers
 and other researchers can likewise play around with the code for their own analysis using pandas.
 
-Since data can be retrieved seamlessly, it is also easier to make visualization out of them. Below are two examples of visualization I made using data
+Since data can be retrieved seamlessly, it is also easier to make visualization out of them. Below is an example of visualization I made using data
 I collected and processed in Jupyter Notebook. These visualizations require the use of other softwares like **QGIS** and **Adobe Illustrator**.
 
 ![cases by provinces-01](https://user-images.githubusercontent.com/87161563/148441101-3daa6894-d32e-4ef0-9950-d35f6cb09105.png)
