@@ -6,7 +6,7 @@ Source: Department of Health data drop
 # What is this about?
 
 Using pandas, I processed data regularly released data by the health department. There are two types of data here: first are case numbers. Second are test numbers.
-Both are as of January 5, 2022 release. 
+Both are as of January 5, 2022 release. I aim to regularly update this as well.
 
 # Why this?
 
