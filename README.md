@@ -5,7 +5,7 @@ Source: Department of Health data drop
 
 # What is this about?
 
-Using pandas, I processed data regularly released data by the health department. There are two types of data here: first are case numbers. Second are test numbers.
+Using pandas, I processed regularly released data by the health department. There are two types of data here: first are case numbers. Second are test numbers.
 Both are as of January 5, 2022 release. I aim to regularly update this as well.
 
 # Why this?
@@ -81,7 +81,7 @@ currently have. For GeneXpert labs, this refers to the remaining number of cartr
 
 Information in the database were collected from the [DOH Covid-19 Tracker Data Drop](https://doh.gov.ph/covid19tracker). CSV files were downloaded from the
 Cloud drive maintained and updated by the agency daily. To properly use this database, simply download the latest CSV files and update the file name in the
-**pd.read_csv** portion of the code once in Jupyter Notebook (*Most likely you'll only have to upload the date in the filename)*
+**pd.read_csv** portion of the code once in Jupyter Notebook (*Most likely you'll only have to change the numerical date in the filename)*
 
 After the necessary updates, simply run the kernel to get outputs.
 
