@@ -63,7 +63,7 @@ to 6pm of the reporting date
 4. **daily_output_unique_individuals** - sum of all unique individuals tested (positive+negative) with results that are released from 6pm the previous day to 6pm 
 of the reporting date
 5. **daily_output_invalid** - number of all specimens with invalid results that are released from 6pm the previous day to 6pm of the reporting date. *Reasons for
-invalidity were not indicated.
+invalidity were not indicated.*
 6. **daily_output_samples_tested** - total specimens processed with results (positive, negative, equivocal or invalid) released from 6pm the previous day to 6pm of 
 the reporting date.
 7. **cumulative_unique_individuals** - number of unique individuals who underwent COVID-19 testing, regardless of result, accumulated since the start of operations 
