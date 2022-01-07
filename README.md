@@ -5,7 +5,8 @@ Source: Department of Health data drop (as of Jan. 5)
 
 # Recent updates
 
-As of Jan. 7: Included code to track cases by day on a provincial, municipal, and regional level; charts are bigger, cleaned and made more succinct.
+As of Jan. 7: Included code to track cases by day on a provincial, municipal, and regional level, added samples data, charts are bigger, cleaned 
+and made more succinct.
 
 # What is this about?
 
