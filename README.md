@@ -1,12 +1,16 @@
 # covid-philippines
 A Covid-19 database containing cases and test numbers
 
-Source: Department of Health data drop
+Source: Department of Health data drop (as of Jan. 5)
+
+# Recent updates
+
+As of Jan. 7: Included code to track cases by day on a provincial, municipal, and regional level; charts are bigger, cleaned and made more succinct.
 
 # What is this about?
 
 Using pandas, I processed regularly released data by the health department. There are two types of data here: first are case numbers. Second are test numbers.
-Both are as of January 5, 2022 release. I aim to regularly update this as well.
+I aim to regularly update this as well.
 
 # Why this?
 
