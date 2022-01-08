@@ -1,11 +1,11 @@
 # covid-philippines
 A Covid-19 database containing cases and test numbers
 
-Source: Department of Health data drop (as of Jan. 5)
+Source: Department of Health data drop (as of Jan. 7)
 
 # Recent updates
 
-As of Jan. 7: Included code to track cases by day on a provincial, municipal, and regional level, added samples data, charts are bigger, cleaned 
+As of Jan. 7: Included code to track cases by day on a provincial and regional level, **groupby** municipalities added samples data, charts are bigger, cleaned 
 and made more succinct.
 
 # What is this about?
@@ -95,7 +95,8 @@ After the necessary updates, simply run the kernel to get outputs.
 You would need to install Python and Jupyter notebook in your computer to read this. You can easily search the installation process, depending on the OS you have,
 in the net like [this](https://medium.com/co-learning-lounge/how-to-download-install-python-on-windows-2021-44a707994013). 
 
-After installation, go to your terminal and **pip install pandas**. After which, go run **jupyter notebook** and enjoy!
+After installation, go to your terminal and **pip install pandas**. After which, download the CSV files from the DOH Data Drop. Go run **jupyter notebook** and 
+enjoy!
 
 
 **Comments and suggestions are always welcome! All rights reserved.**
