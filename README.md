@@ -95,5 +95,8 @@ in the net like [this](https://medium.com/co-learning-lounge/how-to-download-ins
 After installation, go to your terminal and **pip install pandas**. After which, download the CSV files from the DOH Data Drop. Go run **jupyter notebook** and 
 enjoy!
 
+# Contact
+
+Prinz Magtulis, [ppm2130@columbia.edu](mailto:ppm2130@columbia.edu)
 
 **Comments and suggestions are always welcome! All rights reserved.**
