@@ -5,10 +5,8 @@ Source: Department of Health data drop (as of Jan. 10)
 
 # Recent updates
 
-*As of Jan. 10:* Fixed the **duplicated** section to show how many duplicates per CaseCode tab. Updated file used to reflect new cases, tests.
-
-*As of Jan. 7:* Included code to track cases by day on a provincial and regional level, **groupby** municipalities added samples data, charts are bigger, cleaned 
-and made more succinct.
+|*Jan. 10*|Fixed the **duplicated** section to show how many duplicates per CaseCode tab. Updated file used to reflect new cases, tests|
+|*Jan. 7*|Included code to track cases by day on a provincial and regional level, **groupby** municipalities added samples data, charts are bigger, cleaned and made more succinct|
 
 # What is this about?
 
