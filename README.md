@@ -1,5 +1,5 @@
-# covid-philippines
-A Covid-19 database containing cases and test numbers
+# covid-ph
+A Covid-19 database of cases and test numbers
 
 Source: Department of Health data drop (as of Jan. 10)
 
