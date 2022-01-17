@@ -7,7 +7,7 @@ Source: Department of Health data drop (as of Jan. 10)
 
 |**Date**|**Updates**|
 |---|---|
-|*Jan. 17*|Included a **NaN section** and fixed tally of cases to use **Age** column instead of **CaseCode** due to null values on the latter|
+|*Jan. 17*|Included a **NaN section** and fixed tally of cases to use **Sex** column instead of **CaseCode** due to null values on the latter|
 |*Jan. 10*|Fixed the **duplicated** section to show how many duplicates across all columns. Updated file used to reflect new cases, tests|
 |*Jan. 7*|Included code to track cases by day on a provincial and regional level, **groupby** municipalities added samples data, charts are bigger, cleaned and made more succinct|
 
