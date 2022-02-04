@@ -1,7 +1,7 @@
 # covid-ph
 A Covid-19 database of cases and test numbers
 
-Source: Department of Health data drop (as of Jan. 10)
+Source: Department of Health data drop
 
 # Recent updates
 
