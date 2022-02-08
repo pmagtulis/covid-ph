@@ -7,7 +7,8 @@ Source: Department of Health data drop
 
 |**Date**|**Updates**|
 |---|---|
-|*Jan. 30*|Updated data as of Jan. 22. Upated with plotnine charts|
+|*Feb. 7*|Updated data as of Jan. 30|
+|*Jan. 30*|Updated data as of Jan. 22. Updated with plotnine charts|
 |*Jan. 23*|Updated data as of Jan. 15. Included a **NaN section** for testing aggregates where over 9,900 were seen as null values|
 |*Jan. 17*|Included a **NaN section** and fixed tally of cases to use **Sex** column instead of **CaseCode** due to null values on the latter|
 |*Jan. 10*|Fixed the **duplicated** section to show how many duplicates across all columns. Updated file used to reflect new cases, tests|
