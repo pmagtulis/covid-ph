@@ -10,11 +10,6 @@ Source: Department of Health data drop
 |*Mar. 19*|Updated data as of Mar. 12. DOH has so far been delaying release of case drop files|
 |*Feb. 26*|Updated data as of Feb. 19. DOH has so far been delaying release of case drop files|
 |*Feb. 18*|Updated data as of Feb. 12. DOH has so far been delaying release of case drop files|
-|*Feb. 14*|Updated data as of Feb. 5. DOH has so far been delaying release of case drop files|
-|*Feb. 7*|Updated data as of Jan. 30|
-|*Jan. 30*|Updated data as of Jan. 22. Updated with plotnine charts|
-|*Jan. 23*|Updated data as of Jan. 15. Included a **NaN section** for testing aggregates where over 9,900 were seen as null values|
-|*Jan. 17*|Included a **NaN section** and fixed tally of cases to use **Sex** column instead of **CaseCode** due to null values on the latter|
 
 # What is this about?
 
