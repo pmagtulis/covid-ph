@@ -18,19 +18,16 @@ I aim to regularly update this as well.
 
 # Why this?
 
-The code is meant to be an easier way to interpret large Covid-19 data released daily by the health department. This is shared to everyone but the primary goal is
-to assist researchers and journalists in their reporting of the ongoing pandemic.
+The code is meant to be an easier way to interpret large Covid-19 data released daily by the health department. This is shared to everyone but the primary 
+goal is to assist researchers and journalists in their reporting of the ongoing pandemic.
 
 # What you can do with the data?
 
-The code is meant to easily navigate through case files and draw analysis from them. Information such as **which province has the most number of cases** or
-**how much testing is being conducted, which age group is most infected** and others can be easily determined through the database. Similarly, programmers
-and other researchers can likewise play around with the code for their own analysis using pandas.
+The code is meant to easily navigate through case files and draw analysis from them. Information such as **which province has the most number of cases** 
+or **how much testing is being conducted, which age group is most infected** and others can be easily determined through the database. Similarly, 
+programmers and other researchers can likewise play around with the code for their own analysis using pandas.
 
-Since data can be retrieved and analyzed by just changing the code, it is also easier to make visualization out of them. Below is an example of visualization I made 
-using data collected and processed in Jupyter Notebook. These visualizations require the use of other softwares like **QGIS** and **Adobe Illustrator**.
-
-![cases by provinces-01](https://user-images.githubusercontent.com/87161563/148441101-3daa6894-d32e-4ef0-9950-d35f6cb09105.png)
+Since data can be retrieved and analyzed by just changing the code, it is also easier to make visualization out of them. [Here](https://pmagtulis.github.io/covid-ph-map) is an interactive map that contains some Covid-19 information.
 
 # Definition of terms
 
@@ -83,18 +80,16 @@ Department of Health. In all cases **NaN** means no data input for that particul
 # What is the data source?
 
 Information in the database were collected from the [DOH Covid-19 Tracker Data Drop](https://doh.gov.ph/covid19tracker). CSV files were downloaded from the
-Cloud drive maintained and updated by the agency daily. To properly use this database, simply download the latest CSV files and update the file name in the
-**pd.read_csv** portion of the code once in Jupyter Notebook (*Most likely you'll only have to change the numerical date in the filename)*
+Cloud drive maintained and updated by the agency daily. To properly use this database, simply download the latest CSV files and update the file name in the **pd.read_csv** portion of the code once in Jupyter Notebook (*Most likely you'll only have to change the numerical date in the filename)*
 
 After the necessary updates, simply run the kernel to get outputs.
 
 # What is needed to be able to use this code?
 
-You would need to install Python and Jupyter notebook in your computer to read this. You can easily search the installation process, depending on the OS you have,
-in the net like [this](https://medium.com/co-learning-lounge/how-to-download-install-python-on-windows-2021-44a707994013). 
+You would need to install Python and Jupyter notebook in your computer to read this. You can easily search the installation process, depending on the OS 
+you have, in the net like [this](https://medium.com/co-learning-lounge/how-to-download-install-python-on-windows-2021-44a707994013). 
 
-After installation, go to your terminal and **pip install pandas**. After which, download the CSV files from the DOH Data Drop. Go run **jupyter notebook** and 
-enjoy!
+After installation, go to your terminal and **pip install pandas**. After which, download the CSV files from the DOH Data Drop. Go run **jupyter notebook** and enjoy!
 
 # Contact
 
