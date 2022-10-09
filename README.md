@@ -7,9 +7,8 @@ Source: Department of Health data drop
 
 |**Date**|**Updates**|
 |---|---|
+|*Oct 7|Updated data as of October 1|
 |*Aug 18*|Updated data as of August 6|
-|*Jun 29*|Updated data as of June 18. DOH has so far been delaying release of case drop files|
-|*Jun 8*|Updated data as of May 28. DOH has so far been delaying release of case drop files|
 
 # What is this about?
 
