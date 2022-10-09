@@ -7,7 +7,7 @@ Source: Department of Health data drop
 
 |**Date**|**Updates**|
 |---|---|
-|*Oct 7|Updated data as of October 1|
+|*Oct 7*|Updated data as of October 1|
 |*Aug 18*|Updated data as of August 6|
 
 # What is this about?
