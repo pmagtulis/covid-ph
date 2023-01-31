@@ -7,7 +7,7 @@ Source: Department of Health data drop
 
 |**Date**|**Updates**|
 |---|---|
-|*Jan 30*|Updated data as of Jan 21, 2023|
+|*Jan 30*|Updated data as of Jan 16, 2023|
 |*Oct 7*|Updated data as of October 1|
 |*Aug 18*|Updated data as of August 6|
 
