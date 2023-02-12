@@ -7,9 +7,8 @@ Source: Department of Health data drop
 
 |**Date**|**Updates**|
 |---|---|
+|*Feb 12*|Updated data as of Feb. 4, 2023|
 |*Jan 30*|Updated data as of Jan 16, 2023|
-|*Oct 7*|Updated data as of October 1|
-|*Aug 18*|Updated data as of August 6|
 
 # What is this about?
 
